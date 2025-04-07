@@ -1,7 +1,3 @@
-Here’s a **professional README** for your distance monitoring and violation detection system using YOLOv8 and OpenCV. This version is structured to clearly explain the purpose, setup, usage, and features of your project while maintaining a developer-friendly tone:
-
----
-
 # 📏 Real-Time Social Distance Monitoring System using YOLOv8 and OpenCV
 
 This project implements a real-time social distancing monitoring system using the **YOLOv8** object detection model and **OpenCV**. The system detects individuals in a video feed, computes real-world distances between them using a homography matrix based on user-provided calibration points, and logs violations if individuals come too close based on a configurable distance threshold.
@@ -121,10 +117,3 @@ DISTANCE_THRESHOLD = 1.5  # Minimum distance in meters considered safe
 - Add sound alerts for violations
 
 ---
-
-## 👤 Author
-
-**Your Name**  
-[Your GitHub](https://github.com/yourusername)  
-Email: your.email@example.com  
-
